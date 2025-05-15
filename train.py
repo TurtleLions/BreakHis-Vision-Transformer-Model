@@ -193,8 +193,8 @@ if __name__ == '__main__':
   patch_size = (16, 16)
   n_channels = 3
   n_heads = 12
-  n_layers = 10
-  batch_size = 64
+  n_layers = 12
+  batch_size = 128
   epochs = 300
   alpha = 0.001
   dropout_prob = 0.1
